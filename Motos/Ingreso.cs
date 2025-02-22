@@ -22,7 +22,7 @@ namespace Motos
             {
 
                 Console.Clear();
-                Console.WriteLine("********** ALMACEN DE MOTOS THE TEMS ************");
+                Console.WriteLine("********** ALMACEN CAMBIO ************");
                 Console.WriteLine("Por Favor Seleccione la Opción Que Desea Realizar");
                 Console.WriteLine(" 1-  INGRESAR DATOS");
                 Console.WriteLine(" 2-  MOSTRAR LISTA");
